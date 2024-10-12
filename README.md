@@ -1,1 +1,1 @@
-# versenyprogramozas
+# bmevprog
